@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<title>The Haukai Restauarant Home Page</title>
+<link rel="Stylesheet" href="Untitled-1.css"type="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-You can use the [editor on GitHub](https://github.com/Mornington01/Mornington01.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+    
+  
+    
+</head>
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<nav>
+	<ul>
+		<li>
+	<a href ="/Users/mwilk/OneDrive/Desktop/Web%20Development%20%20assignment%202/menu.html"target="_blank"><button>RESTAURANT MENU</button></a>
+	<a href="/Users/mwilk/OneDrive/Desktop/Web%20Development%20%20assignment%202/bookings%20page.html"target="_blank"><button>BOOKINGS</button></a>
+	<a href="/Users/mwilk/OneDrive/Desktop/Web%20Development%20%20assignment%202/photo%20gallery.html"target="_blank"><button>GALLERY</button></a>
 
-```markdown
-Syntax highlighted code block
+</li>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+</ul>
+</nav>
+    <br>
+	<img src="restautant logo.png" >
 
-**Bold** and _Italic_ and `Code` text
+	<br>
+	<br>
+	<br>
+      
+    
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mornington01/Mornington01.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        
+		<TABLE BORDER="5"       CELLPADDING="4" CELLSPACING="3">
+			<TR>
+			   <TH COLSPAN="4"><BR><H3>OPENING HOURS</H3>
+			   </TH>
+			   
+			</TR>
+			<TR>
+			   <TH>WEEKDAYS</TH>
+			   <TH>WEEKENDS</TH>
+			</TR>
+			<TR ALIGN="CENTER">
+			   <TD>9AM TO 8PM</TD>
+			   <TD>8AM TO 10PM</TD>
+			</TR>
+			<TR>
+				<TH COLSPAN="2"><BR><H3>CONTACT DETAILS</H3>
+				</TH>
+			 </TR>
+			<TR>
+				<TH>ADDRESS</TH>
+				<TH>PHONE NUMBER</TR>
+			 </TR>
+			 <TR ALIGN="CENTER">
+				<TD>1 ISLAND STREET KERIKERI</TD>
+				<TD>09 401 4019</TD>
+			 </TR>
+		 </TABLE>
+		 
+		 
+		  <br>
+		  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d104277.6754201503!2d174.07665891612731!3d-35.23940091849179!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d0baf52337b76c9%3A0x2a00ef6165e1e080!2sBay%20Of%20Islands!5e0!3m2!1sen!2snz!4v1631854653024!5m2!1sen!2snz"  ></iframe>
+		</iframe>
+		</body>
+</html>
